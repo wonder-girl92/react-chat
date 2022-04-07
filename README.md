@@ -27,4 +27,4 @@
 - react-router-dom
 - dayJs
 - CssTransition
-- Git
+- react-loading-skeleton
