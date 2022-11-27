@@ -7,7 +7,7 @@ import { CSSTransition } from 'react-transition-group';
 import profileTransitions from './profileTransition.module.css';
 
 function Profile() {
-  const load = useSelector((state) => state.application.loading);
+  // const load = useSelector((state) => state.application.loading);
   const showProfile = useSelector((state) => state.messages.showProfile);
 
   return (
